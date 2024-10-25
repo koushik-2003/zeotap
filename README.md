@@ -30,16 +30,14 @@ Usage
 1.Data Collection: Run the data collection script to populate the SQLite database:
 python collect_weather_data.py
 
-2.Data Visualization: Run the visualization script to generate charts:
+2.Data Visualization: 
+Run the visualization script to generate charts:
 python visualization.py
 
 3.The generated charts will be saved as PNG files in the project directory.
 
 Contributing
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details
 
 Acknowledgments
 Matplotlib for data visualization.
